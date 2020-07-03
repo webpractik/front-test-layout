@@ -8,11 +8,11 @@ Project: https://zpl.io/bzgZYwE
 1. Регистрируемся если еще не зарегестрированны в zeplin.
 2. Пишем на hr@webpractik.ru, с просьбой прислать тестовое задание на front-end макет, указывая свой email.
 3. Вам будет расшарен макет в zeplin.
-4. После проверки сделать запрос hr@webpractik.ru с ссылкой на 
+4. После проверки сделать запрос hr@webpractik.ru с ссылкой на репозиторий со своей работой.
 
 Шрифты
-Alegreya: https://fontstorage.com/font/huerta-tipografica/alegreya
-Roboto: https://fontstorage.com/font/google/roboto
+- Alegreya: https://fontstorage.com/font/huerta-tipografica/alegreya
+- Roboto: https://fontstorage.com/font/google/roboto
 
 Фильтр: https://cp.webpractik.ru/~0PLCg
 Карточка: https://cp.webpractik.ru/~HaQJo
