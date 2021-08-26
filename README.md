@@ -13,8 +13,9 @@
 - Alegreya: https://fontstorage.com/font/huerta-tipografica/alegreya
 - Roboto: https://fontstorage.com/font/google/roboto
 
-Фильтр: https://cp.webpractik.ru/~0PLCg
-Карточка: https://cp.webpractik.ru/~HaQJo
+### Анимация
+- Фильтр: https://cp.webpractik.ru/~0PLCg
+- Карточка: https://cp.webpractik.ru/~HaQJo
 
 ### Требования:
 1. Можно использовать [CreateReactApp](https://github.com/facebook/create-react-app) или простую верстку + jquery. Первое конечно лучше, но не критично. 
